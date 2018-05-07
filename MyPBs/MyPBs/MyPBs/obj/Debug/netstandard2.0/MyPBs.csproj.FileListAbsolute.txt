@@ -1,0 +1,13 @@
+C:\Users\renan\source\repos\MyPBs\MyPBs\MyPBs\obj\Debug\netstandard2.0\MyPBs.csprojResolveAssemblyReference.cache
+C:\Users\renan\source\repos\MyPBs\MyPBs\MyPBs\obj\Debug\netstandard2.0\MyPBs.csproj.CoreCompileInputs.cache
+C:\Users\renan\source\repos\MyPBs\MyPBs\MyPBs\obj\Debug\netstandard2.0\MyPBs.App.xaml.g.cs
+C:\Users\renan\source\repos\MyPBs\MyPBs\MyPBs\obj\Debug\netstandard2.0\MyPBs.MainPage.xaml.g.cs
+C:\Users\renan\source\repos\MyPBs\MyPBs\MyPBs\obj\Debug\netstandard2.0\MyPBs.Views.PrincipalPage.xaml.g.cs
+C:\Users\renan\source\repos\MyPBs\MyPBs\MyPBs\obj\Debug\netstandard2.0\MyPBs.AssemblyInfoInputs.cache
+C:\Users\renan\source\repos\MyPBs\MyPBs\MyPBs\obj\Debug\netstandard2.0\MyPBs.AssemblyInfo.cs
+C:\Users\renan\source\repos\MyPBs\MyPBs\MyPBs\obj\Debug\netstandard2.0\MyPBs.dll
+C:\Users\renan\source\repos\MyPBs\MyPBs\MyPBs\obj\Debug\netstandard2.0\MyPBs.pdb
+C:\Users\renan\source\repos\MyPBs\MyPBs\MyPBs\bin\Debug\netstandard2.0\MyPBs.deps.json
+C:\Users\renan\source\repos\MyPBs\MyPBs\MyPBs\bin\Debug\netstandard2.0\MyPBs.dll
+C:\Users\renan\source\repos\MyPBs\MyPBs\MyPBs\bin\Debug\netstandard2.0\MyPBs.pdb
+C:\Users\renan\source\repos\MyPBs\MyPBs\MyPBs\obj\Debug\netstandard2.0\MyPBs.Views.VerTemposPage.xaml.g.cs
